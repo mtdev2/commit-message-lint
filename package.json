@@ -19,7 +19,7 @@
     "lint": "standard --fix"
   },
   "dependencies": {
-    "handlebars": "^4.7.3",
+    "handlebars": "^4.7.4",
     "lodash": "^4.17.15",
     "probot": "^7.2.0",
     "request": "^2.88.2",
